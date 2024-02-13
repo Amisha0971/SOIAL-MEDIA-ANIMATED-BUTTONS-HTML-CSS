@@ -4,7 +4,6 @@
 # AFTER HOVER
 ![Screenshot 2024-02-08 202213](https://github.com/Amisha0971/SOIAL-MEDIA-ANIMATED-BUTTONS-HTML-CSS/assets/136344215/9d6f5b71-e5a7-460c-ad93-5946651bb0a5)
 
---------------------------------------------------------
 
 ![Screenshot 2024-02-08 202222](https://github.com/Amisha0971/SOIAL-MEDIA-ANIMATED-BUTTONS-HTML-CSS/assets/136344215/b1193136-7cfd-4506-aaa1-3de689a5a953)
 
